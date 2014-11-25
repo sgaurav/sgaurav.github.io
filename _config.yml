@@ -1,0 +1,11 @@
+url: http://sgaurav.in
+
+permalink: /:year/:month/:title
+
+markdown: redcarpet
+highlighter: pygments
+exclude: ['CNAME', 'README.md', 'LICENSE', '.gitignore']
+
+name: "Gaurav Singh"
+tagline: "Piece of mind of a developer"
+description: "Gaurav is a developer who started writing Javascript when it was not cool."
